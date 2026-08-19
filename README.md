@@ -77,7 +77,8 @@ An update campaign system. Each campaign defines a scope (district-wide, by loca
 
 #### 👨‍💻 My role here
 **Front-end:** a vanilla JavaScript SPA, no framework. Custom History API router, session- and role-based route guards, a service layer over the REST API, a centralized HTTP client with automatic token refresh, and a reusable component system with skeleton screens and parallel data fetching.
-Stack: JavaScript (ES Modules) · Vite · Tailwind CSS v4 · Node.js · Express · PostgreSQL · Supabase · JWT · bcrypt · Swagger Deployment: front-end on Vercel · back-end on Render · database on Supabase
+
+**Tech Stack:**  JavaScript (ES Modules) · Vite · Tailwind CSS v4 · Node.js · Express · PostgreSQL · Supabase · JWT · bcrypt · Swagger Deployment: front-end on Vercel · back-end on Render · database on Supabase
 
 # ⚡ Interests
 
