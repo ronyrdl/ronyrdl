@@ -13,11 +13,13 @@
 
 ## 👨‍💻 About Me
 
-Software Developer specialized in cross-platform mobile development using **Flutter** and **Dart**. Systems Information Technology student at **Universidad de Barranquilla** and developer in training at **Riwi**.
+Software Developer focused on cross-platform mobile application development using **Flutter** and **Dart**, with knowledge of native Android development using **Kotlin**. Systems Information Technology student at **Universidad de Barranquilla** and developer in training at **Riwi**.
 
-- 📱 **Current Focus:** Mobile development with Flutter & Dart, implementing Clean Architecture and state management (BLoC / Provider).
-- 🌐 **Background:** Hands-on experience building scalable web applications, RESTful APIs, and relational databases.
-- 🏗️ **Core Technical Interests:** Software architecture, modular design, clean code, and API integration.
+- 📱 **Current Focus:** Mobile development with Flutter, Dart, and Kotlin, exploring Clean Architecture and state management with BLoC and Provider.
+- 🌐 **Background:** Experience building web applications using React, Next.js, JavaScript, and TypeScript, as well as developing REST APIs with Node.js and Express.
+- 🗄️ **Databases:** Knowledge of PostgreSQL, MySQL, SQLite, Firebase, and Supabase.
+- 🏗️ **Technical Interests:** Software architecture, modular design, clean code, SOLID principles, and API integration.
+- 🛠️ **Tools & Environment:** Git, GitHub, Android Studio, VS Code, and Linux.
 - 📍 **Location:** Barranquilla, Colombia.
 
 ---
